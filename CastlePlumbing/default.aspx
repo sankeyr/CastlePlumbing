@@ -162,7 +162,7 @@
                                                 <div class="row">
                     <div class="col-md-12 section-heading text-center">
                      <h3>Kitchen Sink Replacement</h3>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/CCUo0uy6Nm0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="auto" height="315" src="https://www.youtube.com/embed/CCUo0uy6Nm0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                         </div>
                 </div>
             </div>
